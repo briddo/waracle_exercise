@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "aws_region": "eu-west-2",
+        "django_settings": "waracle_exercise.settings.aws",
+        "profile_name": "default",
+        "project_name": "waracle-exercise",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-lhlbtrzn8"
+    }
+}
